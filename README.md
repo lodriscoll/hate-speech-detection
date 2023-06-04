@@ -26,7 +26,6 @@ The code supports three feature extraction techniques:
 
 - `unigram`: Extracts unigram features from the text.
 - `bigram`: Extracts bigram features from the text.
-- `customized`: Allows customization of the feature extraction process. You can modify the code in the `CustomFeature` class to define your own feature extraction logic.
 
 ## References
 The code is based on the following resources:
